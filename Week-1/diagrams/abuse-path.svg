@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1145 200" role="img" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <title>The abuse-path chain: entry point to asset harmed, with trust handoffs on every arrow</title>
+  <desc>A horizontal flow of five boxes. Entry point (email, PDF, Slack) flows to Orchestrator (retrieves, feeds in), to Model (constructs meaning), to Tool action (sends, orders, edits), to Asset harmed (data, trust, money). Each connecting arrow is labelled "trust", marking the handoffs where the danger lives.</desc>
+
+  <defs>
+    <marker id="ar-gray" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#73726C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Box 1: Entry point (untrusted source, gray) -->
+  <rect x="24" y="95" width="175" height="70" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1"/>
+  <text x="111.5" y="120" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="600" fill="#2C2C2A">Entry point</text>
+  <text x="111.5" y="144" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#5F5E5A">email, PDF, Slack</text>
+
+  <!-- Box 2: Orchestrator (gray) -->
+  <rect x="254" y="95" width="175" height="70" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1"/>
+  <text x="341.5" y="120" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="600" fill="#2C2C2A">Orchestrator</text>
+  <text x="341.5" y="144" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#5F5E5A">retrieves, feeds in</text>
+
+  <!-- Box 3: Model (the meaning-maker, amber) -->
+  <rect x="484" y="95" width="175" height="70" rx="8" fill="#FAEEDA" stroke="#EF9F27" stroke-width="1"/>
+  <text x="571.5" y="120" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="600" fill="#633806">Model</text>
+  <text x="571.5" y="144" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#854F0B">constructs meaning</text>
+
+  <!-- Box 4: Tool action (capability reaching out, coral) -->
+  <rect x="714" y="95" width="175" height="70" rx="8" fill="#FCEBEB" stroke="#F09595" stroke-width="1"/>
+  <text x="801.5" y="120" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="600" fill="#791F1F">Tool action</text>
+  <text x="801.5" y="144" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#A32D2D">sends, orders, edits</text>
+
+  <!-- Box 5: Asset harmed (strong red) -->
+  <rect x="944" y="95" width="175" height="70" rx="8" fill="#F7C1C1" stroke="#E24B4A" stroke-width="1"/>
+  <text x="1031.5" y="120" text-anchor="middle" dominant-baseline="central" font-size="15" font-weight="600" fill="#501313">Asset harmed</text>
+  <text x="1031.5" y="144" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#791F1F">data, trust, money</text>
+
+  <!-- Arrows (the trust handoffs) -->
+  <line x1="207" y1="130" x2="246" y2="130" stroke="#73726C" stroke-width="1.5" marker-end="url(#ar-gray)"/>
+  <line x1="437" y1="130" x2="476" y2="130" stroke="#73726C" stroke-width="1.5" marker-end="url(#ar-gray)"/>
+  <line x1="667" y1="130" x2="706" y2="130" stroke="#73726C" stroke-width="1.5" marker-end="url(#ar-gray)"/>
+  <line x1="897" y1="130" x2="936" y2="130" stroke="#73726C" stroke-width="1.5" marker-end="url(#ar-gray)"/>
+
+  <!-- "trust" labels: the danger lives on the arrows -->
+  <text x="226" y="117" text-anchor="middle" font-size="11.5" font-style="italic" fill="#A32D2D">trust</text>
+  <text x="456" y="117" text-anchor="middle" font-size="11.5" font-style="italic" fill="#A32D2D">trust</text>
+  <text x="686" y="117" text-anchor="middle" font-size="11.5" font-style="italic" fill="#A32D2D">trust</text>
+  <text x="916" y="117" text-anchor="middle" font-size="11.5" font-style="italic" fill="#A32D2D">trust</text>
+</svg>
