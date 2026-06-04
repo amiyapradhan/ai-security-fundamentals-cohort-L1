@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 270" role="img" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <title>Three frameworks, three questions: STRIDE, MITRE ATLAS, and OWASP</title>
+  <desc>Three cards. STRIDE asks what kind of threat it is and classifies it (a crafted document is tampering). MITRE ATLAS asks how attackers hit AI and catalogs tactics like prompt injection and poisoning. OWASP asks how to build safely and gives the defender's checklist of guardrails and output checks. Below, a caption reads: name the threat, understand the attack, build the defence.</desc>
+
+  <!-- Card 1: STRIDE (classify — gray) -->
+  <rect x="15" y="20" width="300" height="170" rx="10" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1"/>
+  <text x="37" y="58" font-size="18" font-weight="700" fill="#2C2C2A">STRIDE</text>
+  <text x="37" y="86" font-size="13.5" font-style="italic" fill="#5F5E5A">What kind of threat?</text>
+  <line x1="37" y1="104" x2="293" y2="104" stroke="#D9D7CE" stroke-width="1"/>
+  <text x="37" y="130" font-size="13" fill="#3A3A38">Names and classifies it.</text>
+  <text x="37" y="154" font-size="13" fill="#3A3A38">A crafted doc = tampering.</text>
+
+  <!-- Card 2: MITRE ATLAS (the attack — red) -->
+  <rect x="350" y="20" width="300" height="170" rx="10" fill="#FCEBEB" stroke="#F09595" stroke-width="1"/>
+  <text x="372" y="58" font-size="18" font-weight="700" fill="#791F1F">MITRE ATLAS</text>
+  <text x="372" y="86" font-size="13.5" font-style="italic" fill="#A32D2D">How do attackers hit AI?</text>
+  <line x1="372" y1="104" x2="628" y2="104" stroke="#F1C9C9" stroke-width="1"/>
+  <text x="372" y="130" font-size="13" fill="#5A2A2A">Catalogs real tactics —</text>
+  <text x="372" y="154" font-size="13" fill="#5A2A2A">prompt injection, poisoning.</text>
+
+  <!-- Card 3: OWASP (the defence — green) -->
+  <rect x="685" y="20" width="300" height="170" rx="10" fill="#E8F0E4" stroke="#6FA060" stroke-width="1"/>
+  <text x="707" y="58" font-size="18" font-weight="700" fill="#2F5424">OWASP LLM Top 10</text>
+  <text x="707" y="86" font-size="13.5" font-style="italic" fill="#3F6B32">How do we build safely?</text>
+  <line x1="707" y1="104" x2="963" y2="104" stroke="#CADFC2" stroke-width="1"/>
+  <text x="707" y="130" font-size="13" fill="#2E4A26">The defender's checklist —</text>
+  <text x="707" y="154" font-size="13" fill="#2E4A26">guardrails, output checks.</text>
+
+  <!-- Caption -->
+  <text x="500" y="240" text-anchor="middle" font-size="14" font-style="italic" fill="#5F5E5A">Name the threat&#160;&#160;&#8594;&#160;&#160;understand the attack&#160;&#160;&#8594;&#160;&#160;build the defence</text>
+</svg>
