@@ -27,7 +27,7 @@ screenshotted.
 | Week | Topic | Dates | Notes |
 |------|-------|-------|-------|
 | **[Week 1](./Week-1/)** | AI Threats & Threat Modelling | 30 May – 5 Jun | [README ↗](./Week-1/README.md) ✅ |
-| Week 2 | Core Machine Learning Concepts | 6 – 12 Jun | _in progress_ |
+| Week 2 | Core Machine Learning Concepts | 6 – 12 Jun | _upcoming_ |
 | Week 3 | Working With AI Systems | 13 – 19 Jun | _upcoming_ |
 | Week 4 | AI System Attacks & Defences | 20 – 26 Jun | _upcoming_ |
 | Week 5 | Cyber Controls for AI Systems | 27 Jun – 3 Jul | _upcoming_ |
