@@ -4,7 +4,7 @@
 > Notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
 **Cohort session:** Sat 30 May 2026 · **Summary written:** 06 June 2026<br>
-**Medium article:** [How to Map the Attack Surface of an AI System](**Medium article:** _coming soon_)<br>
+**Medium article:** [How to Map the Attack Surface of an AI System](https://medium.com/@amiyapradhan1/how-to-map-the-attack-surface-of-an-ai-system-f403eb10870c)<br>
 **LinkedIn post:** [_link once published_](**LinkedIn post:** _coming soon_)
 
 ---
