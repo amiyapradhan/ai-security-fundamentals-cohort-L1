@@ -5,7 +5,7 @@
 
 **Cohort session:** Sat 30 May 2026 · **Summary written:** 06 June 2026<br>
 **Medium article:** [How to Map the Attack Surface of an AI System](https://medium.com/@amiyapradhan1/how-to-map-the-attack-surface-of-an-ai-system-f403eb10870c)<br>
-**LinkedIn post:** [_link once published_](**LinkedIn post:** _coming soon_)
+**LinkedIn post:** [How to Map the Attack Surface of an AI System][li-week1]
 
 ---
 
@@ -102,4 +102,5 @@ python3 toy-target/jori.py
 - [MITRE ATLAS](https://atlas.mitre.org/) — the adversarial-ML threat knowledge base.
 - [OWASP Top 10 for LLM Applications](https://genai.owasp.org/) — the field's shared checklist.
 - Aim Labs' EchoLeak disclosure (CVE-2025-32711) — the zero-click Copilot case.
+- [li-week1]: https://www.linkedin.com/posts/amiyapradhan_aisecurity-llmsecurity-threatmodeling-share-7469170914052620288-LfZg/
 
