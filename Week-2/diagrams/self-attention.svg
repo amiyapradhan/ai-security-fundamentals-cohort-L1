@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 252" font-family="Arial, 'Helvetica Neue', Helvetica, sans-serif" role="img" aria-label="Self-attention: the token bank attends strongly to raised, interest and rates, shifting its meaning toward finance.">
+  <rect x="0.5" y="0.5" width="679" height="251" rx="14" fill="#FCFAF6" stroke="#E7DECF"/>
+
+  <path d="M224 148 Q166 96 108 148" fill="none" stroke="#EF9F27" stroke-width="1" stroke-linecap="round" opacity="0.22"/>
+  <path d="M224 148 Q282 82 340 148" fill="none" stroke="#EF9F27" stroke-width="4" stroke-linecap="round" opacity="0.95"/>
+  <path d="M224 148 Q340 62 456 148" fill="none" stroke="#EF9F27" stroke-width="3.5" stroke-linecap="round" opacity="0.9"/>
+  <path d="M224 148 Q398 52 572 148" fill="none" stroke="#EF9F27" stroke-width="3" stroke-linecap="round" opacity="0.78"/>
+
+  <g>
+    <rect x="58" y="150" width="100" height="40" rx="8" fill="#F1ECE1" stroke="#D8CDBA" stroke-width="1.3"/>
+    <text x="108" y="170" text-anchor="middle" dominant-baseline="central" font-size="13" fill="#3A352C">The</text>
+  </g>
+  <g>
+    <rect x="174" y="150" width="100" height="40" rx="8" fill="#FBEFD2" stroke="#EAC982" stroke-width="1.3"/>
+    <text x="224" y="170" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#8A5A12">bank</text>
+  </g>
+  <g>
+    <rect x="290" y="150" width="100" height="40" rx="8" fill="#F1ECE1" stroke="#D8CDBA" stroke-width="1.3"/>
+    <text x="340" y="170" text-anchor="middle" dominant-baseline="central" font-size="13" fill="#3A352C">raised</text>
+  </g>
+  <g>
+    <rect x="406" y="150" width="100" height="40" rx="8" fill="#F1ECE1" stroke="#D8CDBA" stroke-width="1.3"/>
+    <text x="456" y="170" text-anchor="middle" dominant-baseline="central" font-size="13" fill="#3A352C">interest</text>
+  </g>
+  <g>
+    <rect x="522" y="150" width="100" height="40" rx="8" fill="#F1ECE1" stroke="#D8CDBA" stroke-width="1.3"/>
+    <text x="572" y="170" text-anchor="middle" dominant-baseline="central" font-size="13" fill="#3A352C">rates</text>
+  </g>
+
+  <text x="340" y="214" text-anchor="middle" font-size="12" fill="#6E6557">thicker arc = stronger attention from &#8220;bank&#8221; to that token</text>
+  <text x="340" y="234" text-anchor="middle" font-size="12" fill="#6E6557">so &#8220;bank&#8221; lands on the financial meaning, not a riverbank</text>
+</svg>

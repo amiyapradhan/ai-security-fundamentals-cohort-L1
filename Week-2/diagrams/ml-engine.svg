@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 195" font-family="Arial, 'Helvetica Neue', Helvetica, sans-serif" role="img" aria-label="The machine learning engine: inputs flow through a weighted sum and a nonlinearity to a boundary, with an optimization loop tuning the weights.">
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#9A917F"/></marker>
+    <marker id="ahT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#1D9E75"/></marker>
+  </defs>
+  <rect x="0.5" y="0.5" width="679" height="194" rx="14" fill="#FCFAF6" stroke="#E7DECF"/>
+
+  <g>
+    <rect x="44" y="50" width="130" height="56" rx="8" fill="#F1ECE1" stroke="#D8CDBA" stroke-width="1.3"/>
+    <text x="109" y="72" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#3A352C">Inputs</text>
+    <text x="109" y="90" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#7B7263">many features</text>
+  </g>
+  <g>
+    <rect x="198" y="50" width="130" height="56" rx="8" fill="#E4F1EA" stroke="#A6D4C0" stroke-width="1.3"/>
+    <text x="263" y="72" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#0E5C45">Weighted sum</text>
+    <text x="263" y="90" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#2E7D63">multiply, add</text>
+  </g>
+  <g>
+    <rect x="352" y="50" width="130" height="56" rx="8" fill="#E4F1EA" stroke="#A6D4C0" stroke-width="1.3"/>
+    <text x="417" y="72" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#0E5C45">Nonlinearity</text>
+    <text x="417" y="90" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#2E7D63">bend the line</text>
+  </g>
+  <g>
+    <rect x="506" y="50" width="130" height="56" rx="8" fill="#ECE8F8" stroke="#C6BBEC" stroke-width="1.3"/>
+    <text x="571" y="72" text-anchor="middle" dominant-baseline="central" font-size="14" font-weight="600" fill="#4A3A8C">Boundary</text>
+    <text x="571" y="90" text-anchor="middle" dominant-baseline="central" font-size="12" fill="#6E5FB0">high-dim space</text>
+  </g>
+
+  <line x1="174" y1="78" x2="196" y2="78" stroke="#9A917F" stroke-width="1.1" marker-end="url(#ah)"/>
+  <line x1="328" y1="78" x2="350" y2="78" stroke="#9A917F" stroke-width="1.1" marker-end="url(#ah)"/>
+  <line x1="482" y1="78" x2="504" y2="78" stroke="#9A917F" stroke-width="1.1" marker-end="url(#ah)"/>
+
+  <path d="M571 106 L571 168 L263 168 L263 110" fill="none" stroke="#1D9E75" stroke-width="1.2" marker-end="url(#ahT)"/>
+  <text x="417" y="156" text-anchor="middle" font-size="12" fill="#6E6557">optimization · nudge the weights</text>
+</svg>
