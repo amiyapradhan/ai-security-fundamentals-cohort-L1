@@ -21,13 +21,12 @@ public sources — see the [boundary note](#boundary-note) below.
 ## How this repo is organised
 
 Each week lives in its own folder with a `README.md`: a one-paragraph TL;DR, what I
-learned, the mental models that stuck, and a toy target. Diagrams are redrawn, not
-screenshotted.
+learned, the mental models that stuck, and any artifacts. 
 
 | Week | Topic | Dates | Notes |
 |------|-------|-------|-------|
 | **[Week 1](./Week-1/)** | AI Threats & Threat Modelling | 30 May – 5 Jun | [README ↗](./Week-1/README.md) ✅ |
-| Week 2 | Core Machine Learning Concepts | 6 – 12 Jun | _upcoming_ |
+| **[Week 2](./Week-2/)** | Core Machine Learning Concepts | 6 – 12 Jun | [README ↗](./Week-2/README.md) ✅ |
 | Week 3 | Working With AI Systems | 13 – 19 Jun | _upcoming_ |
 | Week 4 | AI System Attacks & Defences | 20 – 26 Jun | _upcoming_ |
 | Week 5 | Cyber Controls for AI Systems | 27 Jun – 3 Jul | _upcoming_ |
