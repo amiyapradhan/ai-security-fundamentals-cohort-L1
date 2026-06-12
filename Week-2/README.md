@@ -4,7 +4,7 @@
 > Notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
 **Cohort session:** Sat 6 Jun 2026 · **Summary written:** 12 Jun 2026<br>
-**Medium article:** [Upcoming Medium Link: You Can't Secure What You Don't Understand: Core ML for Security People](REPLACE_WITH_MEDIUM_URL)<br>
+**Medium article:** [You Can't Secure What You Don't Understand: Core ML for Security People](https://medium.com/@amiyapradhan1/you-cant-secure-what-you-don-t-understand-core-ml-for-security-people-4abba31086cf)<br>
 **LinkedIn post:** [_Upcoming link once published_][li-week2]
 
 ---
