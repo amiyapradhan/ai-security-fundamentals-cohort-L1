@@ -5,7 +5,7 @@
 
 **Cohort session:** Sat 6 Jun 2026 · **Summary written:** 12 Jun 2026<br>
 **Medium article:** [You Can't Secure What You Don't Understand: Core ML for Security People](https://medium.com/@amiyapradhan1/you-cant-secure-what-you-don-t-understand-core-ml-for-security-people-4abba31086cf)<br>
-**LinkedIn post:** [_Upcoming link once published_][li-week2]
+**LinkedIn post:** [You Can't Secure What You Don't Understand: Core ML for Security People][li-week2]
 
 ---
 
@@ -141,5 +141,6 @@ _Public sources only — no course material._
 - [Silver et al. — AlphaGo / Mastering the game of Go](https://www.nature.com/articles/nature16961) — deep reinforcement learning via self-play.
 - [D'Amour et al. (2020) — Underspecification Presents Challenges for Credibility of Modern ML](https://arxiv.org/abs/2011.03395).
 - [scikit-learn — Preprocessing data](https://scikit-learn.org/stable/modules/preprocessing.html) — feature scaling and categorical encoding.
+- [li-week2]: https://www.linkedin.com/posts/amiyapradhan_aisecurity-machinelearning-appsec-share-7471478018918490112-7Dbi/
 
 ---
