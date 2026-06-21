@@ -109,9 +109,7 @@ through human endorsement while looking like oversight on paper.
 | System-control experiments | Drove one toy vacuum system from an identical starting state — a rules baseline, then three LLM providers, then MCP and an A2A propose→critique→arbitrate flow — and recorded where the providers diverged, where a one-line software arbitration rule (not the model) decided the outcome, and how the same input at fixed temperature still returned different actions | _my own observations; the provided lab code isn't reproduced_ |
 
 > The cohort lab worked from a provided system. My artifacts are my **own redraws, my own
-> threat-model annotations, and my own observations from driving it** — rebuilding the map and
-> running the system are the point: they prove I can locate where trust changes hands and watch it
-> happen, not just recognise the diagram. The provided lab code isn't reproduced.
+> threat-model annotations, and my own observations from driving it**. The provided lab code isn't reproduced.
 
 ---
 
