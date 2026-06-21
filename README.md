@@ -27,7 +27,7 @@ learned, the mental models that stuck, and any artifacts.
 |------|-------|-------|-------|
 | **[Week 1](./Week-1/)** | AI Threats & Threat Modelling | 30 May – 5 Jun | [README ↗](./Week-1/README.md) ✅ |
 | **[Week 2](./Week-2/)** | Core Machine Learning Concepts | 6 – 12 Jun | [README ↗](./Week-2/README.md) ✅ |
-| **[Week 2](./Week-3/)** | Working With AI Systems | 13 – 19 Jun | [README ↗](./Week-3/README.md) ✅  |
+| **[Week 3](./Week-3/)** | Working With AI Systems | 13 – 19 Jun | [README ↗](./Week-3/README.md) ✅  |
 | Week 4 | AI System Attacks & Defences | 20 – 26 Jun | _upcoming_ |
 | Week 5 | Cyber Controls for AI Systems | 27 Jun – 3 Jul | _upcoming_ |
 | Week 6 | Governance & Safe Adoption | 4 – 10 Jul | _upcoming_ |
