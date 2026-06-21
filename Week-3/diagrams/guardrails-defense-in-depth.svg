@@ -1,0 +1,42 @@
+<svg width="792.0" height="452.0" viewBox="-16 -16 792.0 452.0" role="img" xmlns="http://www.w3.org/2000/svg" class="dgm"><style>
+text{font-family:'Hanken Grotesk',system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.th{font-weight:600;font-size:13px;fill:#221C15}
+.ts{font-weight:400;font-size:10.5px;fill:#6E6557}
+.zl{font-weight:700;font-size:11px;letter-spacing:.04em;text-transform:uppercase}
+.lab{font-weight:600;font-size:10px;fill:#938977}
+.node rect{stroke-width:1.3px}
+rect[stroke-dasharray]{stroke-width:1.3px}
+.arr{fill:none;stroke:#9a917f;stroke-width:1.2px}
+.arr-red{fill:none;stroke:#A8431F;stroke-width:1.4px}
+.c-gray rect{fill:#F1ECE1;stroke:#D8CDBA} .c-gray .th{fill:#3a352c} .c-gray .ts{fill:#7b7263}
+.c-teal rect{fill:#E4F1EA;stroke:#A6D4C0} .c-teal .th{fill:#0E5C45} .c-teal .ts{fill:#2E7D63}
+.c-purple rect{fill:#ECE8F8;stroke:#C6BBEC} .c-purple .th{fill:#4A3A8C} .c-purple .ts{fill:#6E5FB0}
+.c-coral rect{fill:#FBE7DD;stroke:#EEB69D} .c-coral .th{fill:#A8431F} .c-coral .ts{fill:#B5572F}
+.c-amber rect{fill:#FBEFD2;stroke:#EAC982} .c-amber .th{fill:#8A5A12} .c-amber .ts{fill:#9A6E1E}
+</style><rect x="-16" y="-16" width="792.0" height="452.0" fill="#FAF6EF"/>
+        <title>Guardrails as defence in depth: malicious and legitimate inputs pass through concentric layers — access controls, input handling and validation, policy filters — around a central model, with human review and monitoring wrapping everything, before permitted outputs exit.</title>
+        <desc>Concentric rings centred on the model represent monitoring and logging on the outside, then access controls, input handling and validation, and policy filters; legitimate input passes through to permitted outputs while malicious input is filtered by the layers.</desc>
+        <defs><marker id="arwH" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+
+        <circle cx="430" cy="210" r="182" fill="none" stroke="#D8CDBA" stroke-width="1.3"/>
+        <circle cx="430" cy="210" r="146" fill="#ECE8F8" fill-opacity="0.35" stroke="#C6BBEC" stroke-width="1.3"/>
+        <circle cx="430" cy="210" r="110" fill="#FBEFD2" fill-opacity="0.4" stroke="#EAC982" stroke-width="1.3"/>
+        <circle cx="430" cy="210" r="74" fill="#FBE7DD" fill-opacity="0.45" stroke="#EEB69D" stroke-width="1.3"/>
+        <g class="node c-purple"><rect x="394" y="182" width="72" height="56" rx="10"/><text class="th" x="430" y="214" text-anchor="middle">MODEL</text></g>
+
+        <text class="th" x="430" y="46" text-anchor="middle" fill="#3a352c">Monitoring &amp; logging</text>
+        <text class="th" x="430" y="82" text-anchor="middle" fill="#4A3A8C">Access controls</text>
+        <text class="th" x="430" y="118" text-anchor="middle" fill="#8A5A12">Input handling &amp; validation</text>
+        <text class="th" x="430" y="152" text-anchor="middle" fill="#A8431F">Policy filters</text>
+        <text class="th" x="430" y="338" text-anchor="middle" fill="#4A3A8C">Human review (oversight)</text>
+        <text class="th" x="430" y="380" text-anchor="middle" fill="#3a352c">… wraps everything</text>
+
+        <g class="node c-coral"><rect x="24" y="118" width="122" height="54" rx="9"/><text class="th" x="85" y="140" text-anchor="middle">Malicious input</text><text class="ts" x="85" y="157" text-anchor="middle">⚠ injection / policy-violating</text></g>
+        <g class="node c-teal"><rect x="24" y="250" width="122" height="54" rx="9"/><text class="th" x="85" y="272" text-anchor="middle">Legitimate input</text><text class="ts" x="85" y="289" text-anchor="middle">✓ benign requests</text></g>
+        <g class="node c-gray"><rect x="616" y="183" width="124" height="54" rx="9"/><text class="th" x="678" y="205" text-anchor="middle">Permitted outputs</text><text class="ts" x="678" y="222" text-anchor="middle">✓ validated</text></g>
+
+        <line x1="146" y1="150" x2="270" y2="186" class="arr-red" marker-end="url(#arwH)"/>
+        <text class="lab" x="232" y="172" text-anchor="middle" fill="#A8431F">blocked by layers</text>
+        <line x1="146" y1="276" x2="356" y2="224" class="arr" marker-end="url(#arwH)"/>
+        <line x1="466" y1="210" x2="616" y2="210" class="arr" marker-end="url(#arwH)"/>
+      </svg>
