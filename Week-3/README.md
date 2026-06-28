@@ -4,8 +4,8 @@
 > Notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
 **Cohort session:** Sat 13 Jun 2026 · **Summary written:** 21 Jun 2026<br>
-**Medium article:** [Securing AI as a System: Why the Model Is the Least of Your Problems](UPCOMING_MEDIUM_URL)<br>
-**LinkedIn post:** [_link once published_](UPCOMING_LINKEDIN_URL)
+**Medium article:** [Securing AI as a System: Why the Model Is the Least of Your Problems](https://medium.com/@amiyapradhan1/securing-ai-as-a-system-why-the-model-is-the-least-of-your-problem-d0323479ff64?sharedUserId=amiyapradhan1)<br>
+**LinkedIn post:** [Securing AI as a System: Why the Model Is the Least of Your Problems](https://www.linkedin.com/posts/amiyapradhan_aisecurity-llmsecurity-mlops-share-7475393094700400640-F9pm/)
 
 ---
 
