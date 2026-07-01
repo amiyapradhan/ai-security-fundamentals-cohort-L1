@@ -3,9 +3,9 @@
 > Week 4 of my [AI Security Fundamentals cohort](https://github.com/amiyapradhan/ai-security-learning) learning log.
 > The notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
-**Cohort session:** Sat 20 Jun 2026 · **Summary written:** 01 July 2026
-**Medium article:** [AI Attacks Were Never About Breaking the Model](https://articles.amiyapradhan.com/ai-attacks-were-never-about-breaking-the-model-6a24d3a7f3cc) ·
-**LinkedIn post:** [_link once published_](REPLACE_WITH_LINKEDIN_URL)
+**Cohort session:** Sat 20 Jun 2026 · **Summary written:** 01 July 2026 <br>
+**Medium article:** [AI Attacks Were Never About Breaking the Model](https://articles.amiyapradhan.com/ai-attacks-were-never-about-breaking-the-model-6a24d3a7f3cc) <br>
+**LinkedIn post:** [AI Attacks Were Never About Breaking the Model](https://www.linkedin.com/posts/amiyapradhan_aisecurity-llmsecurity-adversarialml-share-7477964766364282880-4BY5/)
 
 ---
 
