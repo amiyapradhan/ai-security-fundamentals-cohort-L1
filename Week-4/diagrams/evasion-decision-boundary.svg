@@ -1,0 +1,57 @@
+<svg viewBox="0 0 1080 585" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="1080" height="585" fill="#FBFAF7"/>
+  <rect x="6" y="6" width="1068" height="573" rx="18" fill="none" stroke="#E7E3D9" stroke-width="2"/>
+  
+  <text x="48" y="88" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="27" font-weight="bold"
+        fill="#15152B">The model isn&#8217;t wrong &#8212; it&#8217;s shown the gap</text>
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="7.5" refY="4"
+            orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#15152B"/>
+    </marker>
+    <marker id="arrRed" markerWidth="10" markerHeight="10" refX="7.5" refY="4"
+            orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#C7452F"/>
+    </marker>
+    <marker id="arrAmb" markerWidth="12" markerHeight="12" refX="8.5" refY="4.5"
+            orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L10,4.5 L0,9 Z" fill="#B9822A"/>
+    </marker>
+    <pattern id="hatch" width="9" height="9" patternTransform="rotate(45)"
+             patternUnits="userSpaceOnUse">
+      <rect width="9" height="9" fill="#F3E7CF"/>
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#B9822A" stroke-width="1.4" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect x="60" y="138" width="960" height="382" rx="12" fill="#ffffff" stroke="#E7E3D9" stroke-width="1.5"/>
+  <!-- left region (model says class A) -->
+  <path d="M60,138 L520,138 L600,520 L60,520 Z" fill="#DCEEE9"/>
+  <!-- right region (model says class B) -->
+  <path d="M600,138 L1020,138 L1020,520 L668,520 Z" fill="#F6E1DB"/>
+  <!-- margin band -->
+  <path d="M520,138 L600,138 L668,520 L600,520 Z" fill="url(#hatch)"/>
+  <!-- learned boundary -->
+  <line x1="520" y1="138" x2="600" y2="520" stroke="#15152B" stroke-width="3"/>
+  <!-- true boundary -->
+  <line x1="600" y1="138" x2="668" y2="520" stroke="#B4B0A5" stroke-width="2.6" stroke-dasharray="9 7"/>
+  <!-- region labels -->
+  <text x="150" y="180" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="16" fill="#2F8F7F" font-weight="bold">model says &#8220;panda&#8221;</text>
+  <text x="150" y="200" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="13" fill="#5E5E6E">(class A side of learned line)</text>
+  <text x="800" y="180" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="16" fill="#C7452F" font-weight="bold" text-anchor="end">model says &#8220;gibbon&#8221;</text>
+  <text x="800" y="200" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="13" fill="#5E5E6E" text-anchor="end">(class B side of learned line)</text>
+  <!-- boundary labels -->
+  <text x="470" y="130" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="14" font-weight="bold" fill="#15152B">learned boundary</text>
+  <text x="470" y="132" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="0" fill="#15152B"></text>
+  <text x="690" y="130" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="14" font-weight="bold" fill="#5E5E6E">true boundary</text>
+  <text x="694" y="542" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="13" fill="#B9822A" font-weight="bold">the margin &#8212; where evasion lives</text>
+  <!-- points -->
+  <circle cx="470" cy="330" r="9" fill="#2F8F7F" stroke="#ffffff" stroke-width="2.5"/>
+  <line x1="479" y1="330" x2="581" y2="330" stroke="#C7452F" stroke-width="2.6" marker-end="url(#arrRed)"/>
+  <circle cx="590" cy="330" r="9" fill="#C7452F" stroke="#ffffff" stroke-width="2.5"/>
+  <text x="470" y="305" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="13.5" fill="#15152B" text-anchor="middle" font-weight="bold">valid input &#10003;</text>
+  <text x="470" y="362" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="12.5" fill="#5E5E6E" text-anchor="middle">correctly classified</text>
+  <text x="530" y="322" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="12.5" fill="#C7452F" text-anchor="middle">+ tiny noise</text>
+  <text x="600" y="378" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="13.5" fill="#C7452F" font-weight="bold">same input &#10007;</text>
+  <text x="600" y="396" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="12.5" fill="#5E5E6E">now misread, confidently</text>
+
+</svg>
