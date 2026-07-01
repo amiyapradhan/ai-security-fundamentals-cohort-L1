@@ -4,7 +4,7 @@
 > The notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
 **Cohort session:** Sat 20 Jun 2026 · **Summary written:** 01 July 2026
-**Medium article:** [The Attacks Were Never About Breaking the Model](REPLACE_WITH_MEDIUM_URL) ·
+**Medium article:** [AI Attacks Were Never About Breaking the Model](https://articles.amiyapradhan.com/ai-attacks-were-never-about-breaking-the-model-6a24d3a7f3cc) ·
 **LinkedIn post:** [_link once published_](REPLACE_WITH_LINKEDIN_URL)
 
 ---
