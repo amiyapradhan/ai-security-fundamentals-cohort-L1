@@ -1,9 +1,9 @@
 # Week 5 — Defences and Controls for AI Systems
 
-> Week 5 of my [AI Security Fundamentals cohort](REPLACE_WITH_REPO_URL) learning log.
+> Week 5 of my [AI Security Fundamentals cohort](https://aisecurityfundamentals.com) learning log.
 > The notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
-**Cohort session:** Sat 27 Jun 2026 · **Summary written:** 28 Jun 2026 <br>
+**Cohort session:** Sat 27 Jun 2026 · **Summary written:** 05 July 2026 <br>
 **Medium article:** [AI Security Without Trusting the Model: The Model Suggests, the System Decides](REPLACE_WITH_MEDIUM_URL) <br>
 **LinkedIn post:** [_link once published_](REPLACE_WITH_LINKEDIN_URL)
 
