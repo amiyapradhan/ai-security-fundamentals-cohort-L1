@@ -1,0 +1,15 @@
+<svg viewBox="0 0 700 230" role="img" aria-label="A continuous improvement loop: monitoring leads to detection, detection to incident response, incident response to control update, which feeds back into monitoring." xmlns="http://www.w3.org/2000/svg" width="700" height="230"><style>.svgtxt{font-family:'Hanken Grotesk','DejaVu Sans',sans-serif;fill:#221C15}.svgmono{font-family:'JetBrains Mono','DejaVu Sans Mono',monospace}.svgmut{fill:#6E6557}</style><rect x="0" y="0" width="700" height="230" fill="#FAF6EF"/>
+        <defs><marker id="ar5" markerWidth="10" markerHeight="10" refX="7" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#A6D4C0"/></marker></defs>
+        <g class="svgtxt" font-size="11" font-weight="700" text-anchor="middle">
+          <circle cx="350" cy="48" r="40" fill="#E4F1EA" stroke="#A6D4C0"/><text x="350" y="44">MONITOR</text><text x="350" y="60" font-size="8" font-weight="400" fill="#6E6557">unusual tool use</text>
+          <circle cx="600" cy="150" r="40" fill="#E4F1EA" stroke="#A6D4C0"/><text x="600" y="146">DETECT</text><text x="600" y="162" font-size="8" font-weight="400" fill="#6E6557">confidence spike</text>
+          <circle cx="350" cy="190" r="40" fill="#E4F1EA" stroke="#A6D4C0"/><text x="350" y="186">RESPOND</text><text x="350" y="202" font-size="8" font-weight="400" fill="#6E6557">disable capability</text>
+          <circle cx="100" cy="150" r="40" fill="#E4F1EA" stroke="#A6D4C0"/><text x="100" y="146">UPDATE</text><text x="100" y="162" font-size="8" font-weight="400" fill="#6E6557">tighten policy</text>
+        </g>
+        <g fill="none" stroke="#A6D4C0" stroke-width="2" marker-end="url(#ar5)">
+          <path d="M388,62 Q470,92 566,132"/>
+          <path d="M588,188 Q480,222 392,202"/>
+          <path d="M312,202 Q200,222 122,188"/>
+          <path d="M108,112 Q190,80 312,58"/>
+        </g>
+      </svg>
