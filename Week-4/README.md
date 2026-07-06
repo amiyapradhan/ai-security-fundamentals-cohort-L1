@@ -1,6 +1,6 @@
 # Week 4 — Attacking AI Systems
 
-> Week 4 of my [AI Security Fundamentals cohort](https://github.com/amiyapradhan/ai-security-learning) learning log.
+> Week 4 of my [AI Security Fundamentals cohort](https://aisecurityfundamentals.com) learning log.
 > The notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
 **Cohort session:** Sat 20 Jun 2026 · **Summary written:** 01 July 2026 <br>
