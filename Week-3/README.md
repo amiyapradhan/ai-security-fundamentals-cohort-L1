@@ -1,6 +1,6 @@
 # Week 3 — Working With AI Systems
 
-> Week 3 of my [AI Security Fundamentals cohort](https://github.com/amiyapradhan/ai-security-learning) learning log.
+> Week 3 of my [AI Security Fundamentals cohort](https://aisecurityfundamentals.com) learning log.
 > Notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
 **Cohort session:** Sat 13 Jun 2026 · **Summary written:** 21 Jun 2026<br>
