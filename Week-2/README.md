@@ -1,6 +1,6 @@
 # Week 2 — Core Machine Learning Concepts
 
-> Week 2 of my [AI Security Fundamentals cohort](https://github.com/amiyapradhan/ai-security-learning) learning log.
+> Week 2 of my [AI Security Fundamentals cohort](https://aisecurityfundamentals.com) learning log.
 > Notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
 **Cohort session:** Sat 6 Jun 2026 · **Summary written:** 12 Jun 2026<br>
