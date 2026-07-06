@@ -1,6 +1,6 @@
 # Week 1 — AI Threats & Threat Modelling
 
-> Week 1 of my [AI Security Fundamentals cohort](https://github.com/amiyapradhan/ai-security-learning) learning log.
+> Week 1 of my [AI Security Fundamentals cohort](https://aisecurityfundamentals.com) learning log.
 > Notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
 **Cohort session:** Sat 30 May 2026 · **Summary written:** 06 June 2026<br>
