@@ -4,8 +4,8 @@
 > The notes, code, and diagrams here are mine; the cohort's transcripts, labs, and videos aren't reproduced.
 
 **Cohort session:** Sat 27 Jun 2026 · **Summary written:** 05 July 2026 <br>
-**Medium article:** [AI Security Without Trusting the Model: The Model Suggests, the System Decides](REPLACE_WITH_MEDIUM_URL) <br>
-**LinkedIn post:** [_link once published_](REPLACE_WITH_LINKEDIN_URL)
+**Medium article:** [AI Security Without Trusting the Model: The Model Suggests, the System Decides](https://medium.com/@amiyapradhan1/ai-security-without-trusting-the-model-the-model-suggests-the-system-decides-9108ee2b7baf?sharedUserId=amiyapradhan1) <br>
+**LinkedIn post:** [AI Security Without Trusting the Model: The Model Suggests, the System Decides](https://www.linkedin.com/posts/amiyapradhan_aisecurity-llmsecurity-zerotrust-share-7480558851671367681-Herr/)
 
 ---
 
