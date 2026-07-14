@@ -30,7 +30,7 @@ learned, the mental models that stuck, and any artifacts.
 | **[Week 3](./Week-3/)** | Working With AI Systems | 13 – 19 Jun | [README ↗](./Week-3/README.md) ✅  |
 | **[Week 4](./Week-4/)** | AI System Attacks & Defences | 20 – 26 Jun | [README ↗](./Week-4/README.md) ✅  |
 | **[Week 5](./Week-5/)** | Cyber Controls for AI Systems | 27 Jun – 3 Jul | [README ↗](./Week-5/README.md) ✅ |
-| Week 6 | Governance & Safe Adoption | 4 – 10 Jul | _upcoming_ |
+| **[Week 6](./Week-6/)** | Emerging Risks, Alignment & Long-Term AI Safety | 4 – 10 Jul | [README ↗](./Week-6/README.md) ✅ |
 | Week 7 | AI Governance | 11 – 17 Jul | _upcoming_ |
 | Week 8 | Putting It Into Practice | 18 – 24 Jul | _upcoming_ |
 
