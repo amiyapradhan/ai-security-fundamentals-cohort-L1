@@ -211,5 +211,3 @@ _Public sources only — no course material._
 - Frameworks carried over from Weeks 1–5: [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework), [NIST CSF 2.0](https://www.nist.gov/cyberframework), [OWASP Top 10 for LLM Applications](https://genai.owasp.org/), [MITRE ATLAS](https://atlas.mitre.org/), [EU AI Act](https://artificialintelligenceact.eu/) — the security half of every argument in these notes.
 - [My Week 6 write-up, notes, and diagrams](https://github.com/amiyapradhan/ai-security-fundamentals-cohort-L1/tree/main/Week-6) — the redrawn diagrams, the `proxy_gap.py` toy, and the full reference list.
 
-AI-safety material and the public sources above. The aim is to make the course look worth taking, not to
-stand in for it.
