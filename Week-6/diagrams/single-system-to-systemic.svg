@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-26 -26 752 292" width="752" height="292" role="img" aria-label="A single system failure fans out through shared models, APIs, cloud, and shared infrastructure to many independent deployments, so failures become correlated rather than isolated."><style>text{font-family:'Hanken Grotesk','Helvetica Neue',Arial,sans-serif;}.svgmono{font-family:'JetBrains Mono','DejaVu Sans Mono',monospace;}</style><rect x="-26" y="-26" width="752" height="292" rx="18" fill="#FFFDF8" stroke="#E5DCCC" stroke-width="1.5"/>
+        <defs><marker id="ar18" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#9a917f"/></marker></defs>
+        <rect x="16" y="86" width="150" height="66" rx="12" fill="#FBE7DD" stroke="#EEB69D"/>
+        <text fill="#221C15" x="91" y="112" text-anchor="middle" class="svgtxt" font-size="11" font-weight="700">SINGLE SYSTEM</text>
+        <text fill="#221C15" x="91" y="128" text-anchor="middle" class="svgtxt" font-size="11" font-weight="700">FAILURE</text>
+        <text fill="#6E6557" x="91" y="144" text-anchor="middle" class="svgmut" font-size="8.5">subtle safety issue</text>
+        <g class="svgtxt" font-size="10" font-weight="700" text-anchor="middle">
+          <rect x="270" y="24" width="150" height="40" rx="9" fill="#F4EEE3" stroke="#E5DCCC"/><text fill="#221C15" x="345" y="49">SHARED API</text>
+          <rect x="270" y="100" width="150" height="40" rx="9" fill="#F4EEE3" stroke="#E5DCCC"/><text fill="#221C15" x="345" y="125">SHARED CLOUD</text>
+          <rect x="270" y="176" width="150" height="40" rx="9" fill="#F4EEE3" stroke="#E5DCCC"/><text fill="#221C15" x="345" y="201">SHARED MODEL</text>
+        </g>
+        <g class="svgtxt" font-size="9.5" font-weight="700" text-anchor="middle">
+          <rect x="560" y="14" width="124" height="34" rx="8" fill="#FFFDF8" stroke="#EEB69D"/><text fill="#221C15" x="622" y="35">deployment A</text>
+          <rect x="560" y="60" width="124" height="34" rx="8" fill="#FFFDF8" stroke="#EEB69D"/><text fill="#221C15" x="622" y="81">deployment B</text>
+          <rect x="560" y="106" width="124" height="34" rx="8" fill="#FFFDF8" stroke="#EEB69D"/><text fill="#221C15" x="622" y="127">deployment C</text>
+          <rect x="560" y="152" width="124" height="34" rx="8" fill="#FFFDF8" stroke="#EEB69D"/><text fill="#221C15" x="622" y="173">deployment D</text>
+          <rect x="560" y="198" width="124" height="34" rx="8" fill="#FFFDF8" stroke="#EEB69D"/><text fill="#221C15" x="622" y="219">deployment E</text>
+        </g>
+        <g stroke="#9a917f" stroke-width="1.5" fill="none" marker-end="url(#ar18)">
+          <line x1="166" y1="112" x2="268" y2="48"/><line x1="166" y1="119" x2="268" y2="120"/><line x1="166" y1="126" x2="268" y2="192"/>
+          <line x1="420" y1="42" x2="558" y2="30"/><line x1="420" y1="46" x2="558" y2="76"/>
+          <line x1="420" y1="120" x2="558" y2="122"/>
+          <line x1="420" y1="196" x2="558" y2="168"/><line x1="420" y1="200" x2="558" y2="214"/>
+        </g>
+      </svg>

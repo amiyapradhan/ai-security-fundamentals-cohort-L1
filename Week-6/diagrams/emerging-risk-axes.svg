@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-26 -26 752 317" width="752" height="317" role="img" aria-label="Emerging risk grows along three axes converging on a model: time (updates, learning, memory), scale (more users, more automation), and interaction (humans, workflows, other systems)."><style>text{font-family:'Hanken Grotesk','Helvetica Neue',Arial,sans-serif;}.svgmono{font-family:'JetBrains Mono','DejaVu Sans Mono',monospace;}</style><rect x="-26" y="-26" width="752" height="317" rx="18" fill="#FFFDF8" stroke="#E5DCCC" stroke-width="1.5"/>
+        <rect x="250" y="100" width="200" height="88" rx="14" fill="#0E5C45"/>
+        <text x="350" y="137" text-anchor="middle" fill="#FAF6EF" class="svgtxt" font-size="15" font-weight="700">THE SYSTEM</text>
+        <text x="350" y="159" text-anchor="middle" fill="#FAF6EF" class="svgmono" font-size="9" opacity="0.9">working as designed</text>
+        <defs><marker id="arM" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#9a917f"/></marker></defs>
+        <g stroke="#9a917f" stroke-width="2" fill="none" marker-end="url(#arM)">
+          <line x1="120" y1="56" x2="255" y2="108"/>
+          <line x1="580" y1="56" x2="445" y2="108"/>
+          <line x1="350" y1="250" x2="350" y2="194"/>
+        </g>
+        <g class="svgtxt" font-size="11.5" font-weight="700">
+          <text fill="#221C15" x="60" y="36">TIME</text>
+          <text fill="#6E6557" x="60" y="52" class="svgmut" font-size="9" font-weight="400">updates · learning · memory</text>
+          <text fill="#221C15" x="540" y="36">SCALE</text>
+          <text fill="#6E6557" x="540" y="52" class="svgmut" font-size="9" font-weight="400">more users · more automation</text>
+          <text fill="#221C15" x="272" y="252">INTERACTION</text>
+          <text fill="#6E6557" x="272" y="264" class="svgmut" font-size="9" font-weight="400">humans · workflows · other systems → feedback loops</text>
+        </g>
+      </svg>

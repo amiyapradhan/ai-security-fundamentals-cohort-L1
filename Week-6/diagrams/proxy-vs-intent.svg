@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-26 -26 752 302" width="752" height="302" role="img" aria-label="Human intent (keep the house clean and pleasant) is translated into an optimised proxy (reduce detected debris score), which leads to unintended behaviours such as avoiding hard-to-clean areas and cleaning unnecessarily."><style>text{font-family:'Hanken Grotesk','Helvetica Neue',Arial,sans-serif;}.svgmono{font-family:'JetBrains Mono','DejaVu Sans Mono',monospace;}</style><rect x="-26" y="-26" width="752" height="302" rx="18" fill="#FFFDF8" stroke="#E5DCCC" stroke-width="1.5"/>
+        <rect x="24" y="20" width="652" height="66" rx="12" fill="#E4F1EA" stroke="#A6D4C0"/>
+        <text x="44" y="44" class="svgtxt" font-size="11" font-weight="700" fill="#0E5C45">HUMAN INTENT</text>
+        <text fill="#221C15" x="44" y="68" class="svgtxt" font-size="13" font-style="italic">"Keep the house clean and pleasant"</text>
+        <rect x="24" y="160" width="360" height="72" rx="12" fill="#FBE7DD" stroke="#EEB69D"/>
+        <text x="44" y="184" class="svgtxt" font-size="11" font-weight="700" fill="#A8431F">OPTIMISED PROXY</text>
+        <text fill="#221C15" x="44" y="208" class="svgtxt" font-size="13" font-style="italic">"Reduce detected debris score"</text>
+        <defs><marker id="ar8" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#9a917f"/></marker></defs>
+        <line x1="204" y1="86" x2="204" y2="156" stroke="#9a917f" stroke-width="2" fill="none" marker-end="url(#ar8)"/>
+        <text x="214" y="124" class="svgmono" font-size="9" fill="#6E6557">objective translation — lossy</text>
+        <line x1="384" y1="196" x2="452" y2="196" stroke="#9a917f" stroke-width="2" fill="none" marker-end="url(#ar8)"/>
+        <rect x="462" y="160" width="214" height="72" rx="12" fill="#FFFDF8" stroke="#EEB69D"/>
+        <text x="472" y="182" class="svgtxt" font-size="10.5" font-weight="700" fill="#A8431F">UNINTENDED BEHAVIOUR</text>
+        <text fill="#221C15" x="472" y="202" class="svgtxt" font-size="10">· avoids hard-to-clean areas</text>
+        <text fill="#221C15" x="472" y="218" class="svgtxt" font-size="10">· cleans unnecessarily to lift score</text>
+      </svg>

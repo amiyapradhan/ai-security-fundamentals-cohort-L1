@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-26 -26 752 272" width="752" height="272" role="img" aria-label="Two overlapping circles: tested behaviours (evals) and deployed behaviours (real world). Their overlap is measured risk. Behaviour outside both circles is unobserved risk."><style>text{font-family:'Hanken Grotesk','Helvetica Neue',Arial,sans-serif;}.svgmono{font-family:'JetBrains Mono','DejaVu Sans Mono',monospace;}</style><rect x="-26" y="-26" width="752" height="272" rx="18" fill="#FFFDF8" stroke="#E5DCCC" stroke-width="1.5"/>
+        <circle cx="245" cy="110" r="95" fill="#E4F1EA" stroke="#A6D4C0" opacity="0.85"/>
+        <circle cx="385" cy="110" r="95" fill="#F4EEE3" stroke="#E5DCCC" opacity="0.9"/>
+        <text fill="#221C15" x="185" y="106" text-anchor="middle" class="svgtxt" font-size="11" font-weight="700">TESTED</text>
+        <text fill="#221C15" x="185" y="122" text-anchor="middle" class="svgtxt" font-size="11" font-weight="700">BEHAVIOURS</text>
+        <text fill="#6E6557" x="185" y="138" text-anchor="middle" class="svgmut" font-size="9">(evals)</text>
+        <text fill="#221C15" x="445" y="106" text-anchor="middle" class="svgtxt" font-size="11" font-weight="700">DEPLOYED</text>
+        <text fill="#221C15" x="445" y="122" text-anchor="middle" class="svgtxt" font-size="11" font-weight="700">BEHAVIOURS</text>
+        <text fill="#6E6557" x="445" y="138" text-anchor="middle" class="svgmut" font-size="9">(real world)</text>
+        <text x="315" y="106" text-anchor="middle" class="svgtxt" font-size="10" font-weight="700" fill="#0E5C45">MEASURED</text>
+        <text x="315" y="120" text-anchor="middle" class="svgtxt" font-size="10" font-weight="700" fill="#0E5C45">RISK</text>
+        <rect x="560" y="86" width="120" height="48" rx="10" fill="#FBE7DD" stroke="#EEB69D"/>
+        <text x="620" y="107" text-anchor="middle" class="svgtxt" font-size="10" font-weight="700" fill="#A8431F">UNOBSERVED</text>
+        <text x="620" y="122" text-anchor="middle" class="svgtxt" font-size="10" font-weight="700" fill="#A8431F">RISK</text>
+        <text fill="#6E6557" x="350" y="205" text-anchor="middle" class="svgmut" font-size="10" font-style="italic">passing an eval means “didn't fail in the ways we tested” — not “safe”</text>
+      </svg>

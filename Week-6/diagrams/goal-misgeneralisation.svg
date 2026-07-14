@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-26 -26 752 262" width="752" height="262" role="img" aria-label="Training context where tidiness correlates with brightness, versus deployment context where the correlation no longer holds. The generalised goal learned in training fails in the real world."><style>text{font-family:'Hanken Grotesk','Helvetica Neue',Arial,sans-serif;}.svgmono{font-family:'JetBrains Mono','DejaVu Sans Mono',monospace;}</style><rect x="-26" y="-26" width="752" height="262" rx="18" fill="#FFFDF8" stroke="#E5DCCC" stroke-width="1.5"/>
+        <rect x="24" y="24" width="270" height="150" rx="12" fill="#E4F1EA" stroke="#A6D4C0"/>
+        <text x="159" y="50" text-anchor="middle" class="svgtxt" font-size="12" font-weight="700" fill="#0E5C45">TRAINING CONTEXT</text>
+        <text fill="#221C15" x="159" y="104" text-anchor="middle" font-size="30">&#9728;&#65039; &#10024;</text>
+        <text fill="#221C15" x="159" y="150" text-anchor="middle" class="svgtxt" font-size="10.5" font-style="italic">tidiness correlated with brightness</text>
+        <rect x="406" y="24" width="270" height="150" rx="12" fill="#FBE7DD" stroke="#EEB69D"/>
+        <text x="541" y="50" text-anchor="middle" class="svgtxt" font-size="12" font-weight="700" fill="#A8431F">DEPLOYMENT CONTEXT</text>
+        <text fill="#221C15" x="541" y="104" text-anchor="middle" font-size="30">&#127761; &#128230;</text>
+        <text fill="#221C15" x="541" y="150" text-anchor="middle" class="svgtxt" font-size="10.5" font-style="italic">correlation no longer holds</text>
+        <defs><marker id="ar9" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#9a917f"/></marker></defs>
+        <line x1="294" y1="99" x2="404" y2="99" stroke="#9a917f" stroke-width="2" fill="none" marker-end="url(#ar9)"/>
+        <text x="349" y="90" text-anchor="middle" class="svgmono" font-size="8.5" fill="#6E6557">generalised goal:</text>
+        <text x="349" y="196" text-anchor="middle" class="svgtxt" font-size="10.5" font-style="italic" fill="#6E6557">"maximise brightness" was learned — so the dark, cluttered room gets confidently deprioritised</text>
+      </svg>

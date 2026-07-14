@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-26 -26 752 352" width="752" height="352" role="img" aria-label="A step-shaped capability curve. Capability jumps at thresholds rather than rising smoothly: sudden ability to plan, autonomy becomes viable, human trust increases."><style>text{font-family:'Hanken Grotesk','Helvetica Neue',Arial,sans-serif;}.svgmono{font-family:'JetBrains Mono','DejaVu Sans Mono',monospace;}</style><rect x="-26" y="-26" width="752" height="352" rx="18" fill="#FFFDF8" stroke="#E5DCCC" stroke-width="1.5"/>
+        <defs><marker id="arA6" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#221C15"/></marker></defs>
+        <line x1="70" y1="40" x2="70" y2="250" stroke="#221C15" stroke-width="1.5" marker-end="url(#arA6)"/>
+        <line x1="70" y1="250" x2="650" y2="250" stroke="#221C15" stroke-width="1.5" marker-end="url(#arA6)"/>
+        <text fill="#221C15" x="52" y="46" class="svgtxt" font-size="12" font-style="italic">capability</text>
+        <text fill="#221C15" x="655" y="266" class="svgtxt" font-size="12" font-style="italic" text-anchor="end">scale · compute · data →</text>
+        <line x1="70" y1="150" x2="640" y2="150" stroke="#EEB69D" stroke-width="1.2" stroke-dasharray="6 5"/>
+        <line x1="70" y1="90" x2="640" y2="90" stroke="#EEB69D" stroke-width="1.2" stroke-dasharray="6 5"/>
+        <polyline points="70,238 150,236 150,200 290,198 290,150 430,148 430,100 560,98 560,74 640,72" fill="none" stroke="#A8431F" stroke-width="3"/>
+        <g stroke="#221C15" stroke-width="1.2" fill="none" marker-end="url(#arA6)">
+          <line x1="180" y1="230" x2="150" y2="205"/>
+          <line x1="320" y1="180" x2="290" y2="155"/>
+          <line x1="460" y1="130" x2="430" y2="106"/>
+        </g>
+        <g class="svgtxt" font-size="10.5" font-weight="700">
+          <text fill="#221C15" x="185" y="228">Sudden ability to plan</text>
+          <text fill="#221C15" x="325" y="178">Autonomy becomes viable</text>
+          <text fill="#221C15" x="465" y="128">Human trust increases</text>
+        </g>
+        <g class="svgmut" font-size="9">
+          <text fill="#221C15" x="645" y="86" text-anchor="end">threshold: acts independently</text>
+          <text fill="#221C15" x="645" y="146" text-anchor="end">threshold: needs constant supervision</text>
+        </g>
+      </svg>
