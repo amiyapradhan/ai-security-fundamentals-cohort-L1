@@ -1,10 +1,10 @@
 # Week 6 — Emerging Risks, Alignment & Long-Term AI Safety
 
-> Week 6 of my [AI Security Fundamentals cohort](REPLACE_WITH_REPO_URL) learning log.
+> Week 6 of my [AI Security Fundamentals cohort](https://aisecurityfundamentals.com) learning log.
 > The notes, code, and diagrams here are mine; the cohort's transcripts, slides, and labs aren't reproduced.
 
-**Cohort session:** Sat 4 Jul 2026 · **Summary written:** 11 Jul 2026
-**Medium article:** [AI Safety Isn't About Attackers](REPLACE_WITH_MEDIUM_URL) ·
+**Cohort session:** Sat 4 Jul 2026 · **Summary written:** 11 Jul 2026 <br>
+**Medium article:** [AI Safety Isn't About Attackers](REPLACE_WITH_MEDIUM_URL) <br>
 **LinkedIn post:** [_link once published_](REPLACE_WITH_LINKEDIN_URL)
 
 ---
