@@ -4,8 +4,8 @@
 > The notes, code, and diagrams here are mine; the cohort's transcripts, slides, and labs aren't reproduced.
 
 **Cohort session:** Sat 4 Jul 2026 · **Summary written:** 11 Jul 2026 <br>
-**Medium article:** [AI Safety Isn't About Attackers](REPLACE_WITH_MEDIUM_URL) <br>
-**LinkedIn post:** [_link once published_](REPLACE_WITH_LINKEDIN_URL)
+**Medium article:** [AI Safety Isn't About Attackers](https://articles.amiyapradhan.com/ai-safety-isnt-about-attackers-5cf215b4e83f) <br>
+**LinkedIn post:** [AI Safety Isn't About Attackers](https://lnkd.in/p/gKuS-ghH)
 
 ---
 
