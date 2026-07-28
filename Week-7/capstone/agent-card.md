@@ -1,6 +1,6 @@
 # Agent Card — Vroomi AI Assistant (draft)
 
-**System:** Vroomi AI Assistant · **Owner:** _[named accountable individual]_ · **Status:** draft for review
+**System:** Vroomi AI Assistant · **Owner:** _Amiya Pradhan_ · **Status:** draft for review
 **Purpose of this document:** to state, in one place, what Vroomi is *allowed* to do — and how autonomously —
 so that autonomy is a governed decision rather than an emergent side-effect. Softmicro's premise is that
 Vroomi should become *more agentic*; this card is the control that decides how agentic she may be.
