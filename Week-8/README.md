@@ -4,7 +4,7 @@
 > **No new lab this week.** It's a consolidation module, and the Vroomi capstone (Weeks 7 and 8) is written up in my [Week 7 log](https://github.com/amiyapradhan/ai-security-fundamentals-cohort-L1/tree/main/Week-7).
 
 **Medium:** [AI Security Isn't a Technical Problem. It's an Organisational One](https://articles.amiyapradhan.com/ai-security-isnt-a-technical-problem-it-s-an-organisational-one-e638722e63a2) <br>
-**LinkedIn:** [link once live](REPLACE_WITH_LINKEDIN_URL)
+**LinkedIn:** [AI Security Isn't a Technical Problem. It's an Organisational One](https://www.linkedin.com/posts/amiyapradhan_aisecurity-riskmanagement-responsibleai-share-7487958947425898496-ht1P/)
 
 ---
 
@@ -70,15 +70,15 @@ assumption (trustworthy data, well-behaved users, correct outputs, a checkpoint 
 ## References
 
 Public sources only; case-study characterisations rest on public reporting, as the module itself flags.
-[NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) ·
-[ISO/IEC 42001](https://www.iso.org/standard/42001) ·
-[NIST CSF 2.0](https://www.nist.gov/cyberframework) ·
-[OWASP Top 10 for LLMs](https://genai.owasp.org/) ·
-[OWASP AIVSS](https://aivss.owasp.org/) ·
-[NCSC Secure AI Development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development) ·
-[MITRE ATLAS](https://atlas.mitre.org/) ·
-[EU AI Act](https://artificialintelligenceact.eu/) ·
-[Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai) ·
+[NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) <br>
+[ISO/IEC 42001](https://www.iso.org/standard/42001) <br>
+[NIST CSF 2.0](https://www.nist.gov/cyberframework) <br>
+[OWASP Top 10 for LLMs](https://genai.owasp.org/) <br>
+[OWASP AIVSS](https://aivss.owasp.org/) <br>
+[NCSC Secure AI Development](https://www.ncsc.gov.uk/collection/guidelines-secure-ai-system-development) <br>
+[MITRE ATLAS](https://atlas.mitre.org/) <br>
+[EU AI Act](https://artificialintelligenceact.eu/) <br>
+[Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai) <br>
 [Anthropic Constitutional AI](https://www.anthropic.com/research)
 
 ---
