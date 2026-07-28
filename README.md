@@ -32,7 +32,7 @@ learned, the mental models that stuck, and any artifacts.
 | **[Week 5](./Week-5/)** | Cyber Controls for AI Systems | 27 Jun – 3 Jul | [README ↗](./Week-5/README.md) ✅ |
 | **[Week 6](./Week-6/)** | Emerging Risks, Alignment & Long-Term AI Safety | 4 – 10 Jul | [README ↗](./Week-6/README.md) ✅ |
 | **[Week 7](./Week-7/)** | AI Governance | 11 – 17 Jul | [README ↗](./Week-7/README.md) ✅ |
-| Week 8 | Putting It Into Practice | 18 – 24 Jul | _upcoming_ |
+| **[Week 8](./Week-8/)** | Putting It Into Practice | 18 – 24 Jul | [README ↗](./Week-8/README.md) ✅ |
 
 > The table updates as each week ships — the commit history tracks the cohort week by week.
 
