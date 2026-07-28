@@ -4,7 +4,7 @@
 > The notes, diagrams, and toy code here are mine; the cohort's transcripts, slides, and capstone lab aren't reproduced.
 
 **Cohort session:** sat 11 July 2026 · **Summary written:** 20 Jul 2026 <br>
-**Medium article:** ["The Model Did It" Is Never an Answer](REPLACE_WITH_MEDIUM_URL) <br>
+**Medium article:** ["The Model Did It" Is Never an Answer](https://articles.amiyapradhan.com/the-llm-model-did-it-is-never-an-answer-what-ai-governance-actually-is-eded1e3ff860) <br>
 **LinkedIn post:** [_link once published_](REPLACE_WITH_LINKEDIN_URL)
 
 > **Note on scope:** Week 7 is two things at once. The videos are the **governance module**;
