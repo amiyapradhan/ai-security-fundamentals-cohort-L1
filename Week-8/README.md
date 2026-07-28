@@ -3,7 +3,7 @@
 > Final module of my [AI Security Fundamentals cohort](https://aisecurityfundamentals.com) log. My notes only; no cohort transcripts, slides, or lab reproduced.
 > **No new lab this week.** It's a consolidation module, and the Vroomi capstone (Weeks 7 and 8) is written up in my [Week 7 log](https://github.com/amiyapradhan/ai-security-fundamentals-cohort-L1/tree/main/Week-7).
 
-**Medium:** [AI Security Isn't a Technical Problem. It's an Organisational One](REPLACE_WITH_MEDIUM_URL) <br>
+**Medium:** [AI Security Isn't a Technical Problem. It's an Organisational One](https://articles.amiyapradhan.com/ai-security-isnt-a-technical-problem-it-s-an-organisational-one-e638722e63a2) <br>
 **LinkedIn:** [link once live](REPLACE_WITH_LINKEDIN_URL)
 
 ---
