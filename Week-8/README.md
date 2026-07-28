@@ -69,7 +69,7 @@ assumption (trustworthy data, well-behaved users, correct outputs, a checkpoint 
 
 ## References
 
-Public sources only; case-study characterisations rest on public reporting, as the module itself flags.
+Public sources only; case-study characterisations rest on public reporting, as the module itself flags <br>
 [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework) <br>
 [ISO/IEC 42001](https://www.iso.org/standard/42001) <br>
 [NIST CSF 2.0](https://www.nist.gov/cyberframework) <br>
