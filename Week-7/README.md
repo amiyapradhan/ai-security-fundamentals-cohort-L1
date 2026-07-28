@@ -5,7 +5,7 @@
 
 **Cohort session:** sat 11 July 2026 · **Summary written:** 20 Jul 2026 <br>
 **Medium article:** ["The Model Did It" Is Never an Answer](https://articles.amiyapradhan.com/the-llm-model-did-it-is-never-an-answer-what-ai-governance-actually-is-eded1e3ff860) <br>
-**LinkedIn post:** [_link once published_](REPLACE_WITH_LINKEDIN_URL)
+**LinkedIn post:** ["The Model Did It" Is Never an Answer](https://www.linkedin.com/posts/amiyapradhan_aisecurity-aigovernance-riskmanagement-share-7487832467866034176-qPET/)
 
 > **Note on scope:** Week 7 is two things at once. The videos are the **governance module**;
 > the lab is replaced by the **Vroomi capstone**, which spans Weeks 7–8. This README covers both: what I
